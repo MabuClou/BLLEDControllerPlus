@@ -6,4 +6,4 @@ I am going to connect
 * a switch at IO6 to turn on white light
 * a button on IO7 to cycle through all colors
 
-Let's if this works
+Let's see if this works
