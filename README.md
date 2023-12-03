@@ -16,3 +16,5 @@ The labeling of these PINs is off. Here is the correct usage:
 | - | - | - |
 | GND | GPIO 17 | GPIO 16 |
 | 5V | GPIO 4 | GPIO 2 |
+
+Be careful: the ESP32 runs with 3.3V! If you feed 5V to the IO PINs it will get damaged.
