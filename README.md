@@ -6,7 +6,7 @@ I am going to connect
 * a switch to turn on white light
 * a button to cycle through all colors
 
-Let's see if this works
+Let's see how this works.
 
 ##Additional PINs
 ![backside](https://github.com/MabuClou/BLLEDControllerPlus/assets/7697438/46aae5de-9896-46aa-8748-23d312d5fbbd)
