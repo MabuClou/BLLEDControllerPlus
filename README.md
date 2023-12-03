@@ -1,5 +1,4 @@
-## This is a fork of BL Led Controller, originally created by [DutchDeveloper](https://dutchdevelop.com/
-
+## This is a fork of BL Led Controller, originally created by [DutchDeveloper] ( [https://dutchdevelop.com/](https://dutchdevelop.com/what-is-a-blledcontroller/) )
 I am going to make use of the additional PINs provided on the board.
 
 I am going to connect
