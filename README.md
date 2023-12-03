@@ -2,7 +2,7 @@
 I am going to make use of the additional PINs provided on the board.
 
 I am going to connect
-* a switch to turn on white light
+* a switch to turn on white light as son as you open the door of your printer
 * a button to cycle through all colors
 
 Let's see how this works.
