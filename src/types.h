@@ -13,6 +13,7 @@ extern "C"
         bool ledstate = true;
         bool hmsstate = false;
         bool online = false;
+        bool finished = false;
         unsigned long finishstartms;
 
     } PrinterVariables;
@@ -20,7 +21,7 @@ extern "C"
     PrinterVariables printerVariables;
 
     typedef struct GlobalVariablesStruct{
-        char SSID[20];
+        char SSID[32];
         char APPW[32];
 
     } GlobalVariables;
@@ -34,6 +35,7 @@ extern "C"
         bool errordetection = true;
         bool finishindication = true;
         bool debuging = true;
+        bool turbo = false;
         char printerIP[16];
         char accessCode[9];
         char serialNumber[16];
